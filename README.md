@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adnan123-aadi
-- 👀 i am currently working as a frontend web devleloper on giverr. i am currently a level one seller there
+- 👀 i am currently working as a frontend web devleloper on Fiverr. i am currently a level one seller there
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on some react projects
 - 📫 How to reach me : you can contact me on fiverr. my username is "adnan8520"
