@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Web Developer
 -----------------------
 
-Hi, I am Information Technology graduate with 3+ years of experience in Web development. I am passionate and find web development as the opportunity to express my creativity by creating responsive & playful websites. After working in software house and generating awesome websites for multiple clients here I'm to offer my freelance services. Client satisfaction is my first priority. My Expertise are HTML5, CSS3, Bootstrap, react, nodejs , express js, php, tailwind css, and materialUi
+Hi, I am Information Technology graduate with 4+ years of experience in Web development. I am passionate and find web development as the opportunity to express my creativity by creating responsive & playful websites. After working in software house and generating awesome websites for multiple clients here I'm to offer my freelance services. Client satisfaction is my first priority. My Expertise are HTML5, CSS3, Bootstrap, Javascript, react, nodejs , express js, php, tailwind css, and materialUi
 
 * 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [fiverr,com](http://https://www.fiverr.com/users/adnan8520)
