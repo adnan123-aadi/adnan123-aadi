@@ -7,7 +7,7 @@ Full Stack Web Developer
 Hi, I am Information Technology graduate with 4+ years of experience in Web development. I am passionate and find web development as the opportunity to express my creativity by creating responsive & playful websites. After working in software house and generating awesome websites for multiple clients here I'm to offer my freelance services. Client satisfaction is my first priority. My Expertise are HTML5, CSS3, Bootstrap, Javascript, react, nodejs , express js, php, tailwind css, and materialUi
 
 * 🌍  I'm based in Pakistan
-* 🖥️  See my portfolio at [fiverr,com](http://https://www.fiverr.com/adnan8520)
+* 🖥️  See my portfolio at [fiverr,com](https://www.fiverr.com/adnan8520)
 * ✉️  You can contact me at [adnansukhera700@gmail.com](mailto:adnansukhera700@gmail.com)
 * 🧠  I'm learning Web 3.0
 * ⚡  i am a level two seller on fiverr, please don't tell anyone
