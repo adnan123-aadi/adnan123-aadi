@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adnan Ali
 =================================================================================================================================
 
-Front End Web Developer
+Full Stack Web Developer
 -----------------------
 
 Hi, I am Information Technology graduate with 4+ years of experience in Web development. I am passionate and find web development as the opportunity to express my creativity by creating responsive & playful websites. After working in software house and generating awesome websites for multiple clients here I'm to offer my freelance services. Client satisfaction is my first priority. My Expertise are HTML5, CSS3, Bootstrap, Javascript, react, nodejs , express js, php, tailwind css, and materialUi
